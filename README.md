@@ -1,2 +1,2 @@
 # WakieWakieClaude
-Waking up Claude
+Just Say Hello
